@@ -9,7 +9,11 @@ art en tiempo real.
 Dependencias: AForge.
 
 Output:
+
 ![alt tag](http://i.imgur.com/pBam9bH.png)
 
+
 User Interface:
-http://i.imgur.com/bdqSB3G.png
+
+![alt tag](http://i.imgur.com/bdqSB3G.png)
+
